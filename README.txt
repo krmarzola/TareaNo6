@@ -34,8 +34,8 @@ Abril 18 del 2017
 
 Nota: 
 1. Verificar que la versión de java utilizada sea la 1.8
-2. La estructura a cargar en el text area del index debe ser de la siguiente manera:
-	1.1;10:10 que corresponde a X;dof;num_seg
+2. Se deben ingresar los campos en los parametros requeridos ejemplo:
+P= 0.45, dof = 6 y errorEstimado = 0.00001
 3.se da click en calcular y genera los resultados.
 
 Nota adicional: la presentación en heroku y las pruebas con junit no se tuvo en cuenta dentro de las mediciones
